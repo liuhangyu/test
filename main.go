@@ -222,7 +222,6 @@ func getMiner4() *Account {
 
 }
 
-
 func fun1() error {
 	return nil
 }
@@ -235,10 +234,6 @@ func fun3() error {
 
 	a := 232131231
 	b := 231231231231231
-	
+
 	return nil
 }
-
-
-
-
