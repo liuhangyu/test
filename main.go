@@ -231,14 +231,13 @@ func fun2() errro {
 	return nil
 }
 
-test sdasdasd
-asdasdasd asd asdasd 
+func fun3() error {
 
-as dasd
-
-as dasd
-
-
+	a := 232131231
+	b := 231231231231231
+	
+	return nil
+}
 
 
 
